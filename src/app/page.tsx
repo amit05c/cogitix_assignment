@@ -1,6 +1,6 @@
 'use client'
-import CharacterFeed from "@/Components/CharacterFeed";
-import EpisodeList from "@/Components/EpisodeList";
+import CharacterFeed from "@/app/Components/CharacterFeed";
+import EpisodeList from "@/app/Components/EpisodeList";
 import { useState } from "react";
 
 export default function Home() {
